@@ -1,0 +1,12 @@
+.box {
+  color:white;
+  width: 300px;
+  height: 200px;
+  background-color: red;
+  font-size: 30;
+  text-align: center;
+  line-height: 200;
+  margin: 10;
+  float: left;
+ 
+}

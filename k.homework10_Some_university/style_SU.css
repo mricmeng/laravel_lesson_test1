@@ -1,0 +1,23 @@
+body {
+      background-color: #f8f9fa;
+    }
+
+    .form-container {
+      background-color: #a82424;
+      /* Dark red background matching the image */
+      color: white;
+      padding: 30px;
+      border-radius: 4px;
+      max-width: 960px;
+      margin: 50px auto;
+      padding: 30px;
+    }
+
+    .form-label {
+      font-weight: bold;
+    }
+
+    .footer-text {
+      font-style: italic;
+      font-size: 0.9rem;
+    }

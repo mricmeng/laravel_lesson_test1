@@ -24,3 +24,5 @@ class Apple extends Fruit
 $apple = new Apple("apple", "red");
 $apple->message();
 $apple->intro();
+
+?>

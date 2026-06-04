@@ -2,7 +2,7 @@
 // class test is a main class
 class Test
 {
-  public function firt()
+  public function fist()
   {
     echo "Hello my Main Class";
   }
@@ -15,5 +15,5 @@ class sample extends Test
   }
 }
 $test = new sample();
-$test->firt();
-$test->second();
+$test->fist();
+// $test->second();
